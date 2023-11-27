@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: hotpink;
+}
+body {
+    background-color:black;
+    color:darkred;
+}
+
+h1 {
+    color:darkviolet;
+}
+
+p {
+    color:fuchsia;
+}
+
+h2 {
+    color: fuchsia;
+}
+
+ul {
+    color: blue;
+}
+
+li {
+    color:cornflowerblue;
+}
+
+footer {
+    background-color: white;
+    color:plum
+}
